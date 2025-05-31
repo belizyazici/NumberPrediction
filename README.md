@@ -82,7 +82,7 @@ Several new features were added to enrich the dataset:
 
 ## Files
 
-* `CE475Project.py` → Main implementation file.
+* `NumberPrediction.py` → Main implementation file.
 * `ProjectDataset.xlsx` → Raw dataset.
 * `final_predictions.xlsx` → Final prediction results.
 
